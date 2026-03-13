@@ -1,7 +1,7 @@
 ## Hi there, I'm Uzeyir from Azerbaijan 🙂
 
 
-## I'm a Front-End Dev, Student, Chess player and Science lover!
+## Data Science Enthusiast | Python & SQL | Solving business problems through Data Visualization
 
 - 📓 I'm studying at Azerbaijan Economics University
 - 💻 I'm currently at a intern program
