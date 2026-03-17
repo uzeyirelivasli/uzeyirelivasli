@@ -9,20 +9,16 @@
 
 ## My social media
 
-[<img align='left' alt='linkedln' width='40px' src='https://image.similarpng.com/very-thumbnail/2021/01/Black-linkedin-logo-design-on-transparent-background-PNG.png' />][linkedln]
-
-[<img align='left' alt='instagram' width='40px' src='https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg' />][instagram]
-
+[<img width="100" height="100" alt="linkedin" src="https://github.com/user-attachments/assets/ae7a0299-e815-44e0-973b-de4e74e87744" />][linkedln]
+[<img width ="100" height="100" align='left' alt='instagram' src='https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg' />][instagram]
 <br/>
 <br/>
-<br/>
+## Languages and Tools:
 
-### Languages and Tools:
-
-<img src="https://www.citypng.com" 
-     alt="Python Logo" 
-     width="200">
-
+<img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/b38805b5-aa20-4708-9be5-5905183b8fb0"  />
+<img width="100" height="100" alt="Jupyter_logo svg" src="https://github.com/user-attachments/assets/0f66c3d4-8887-4e11-acde-9bc1003490dd" />
+<img width="100" height="100" alt="logo-data-structures-algorithms" src="https://github.com/user-attachments/assets/969afdb1-5de5-4c5b-9ff5-83d3bc6d1340" />
+<img width="100" height="100" alt="Unofficial_JavaScript_logo_2 svg" src="https://github.com/user-attachments/assets/950c2e1b-756b-468e-91ab-2672d1f27339" />
 
 
 [instagram]: https://www.instagram.com/elivasliuzeyir/
