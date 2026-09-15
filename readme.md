@@ -21,6 +21,7 @@
 <img width="80" height="80" alt="logo-data-structures-algorithms" src="https://github.com/user-attachments/assets/969afdb1-5de5-4c5b-9ff5-83d3bc6d1340" />
 <img width="80" height="80" alt="js" src="https://github.com/user-attachments/assets/950c2e1b-756b-468e-91ab-2672d1f27339" />
 <img width="80" height="80" alt="pandas" src="https://github.com/user-attachments/assets/1a5b8ff9-ac30-4191-b469-21246f09d7b7" />
+<img width="80" height="80" alt="scikit-learn" src="https://github.com/user-attachments/assets/fc7f4499-9818-4244-bad8-e992f56cdeed" />
 
 
 [instagram]: https://www.instagram.com/elivasliuzeyir/
