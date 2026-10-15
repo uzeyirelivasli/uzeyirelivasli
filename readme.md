@@ -1,7 +1,7 @@
 ## Hi there, I'm Uzeyir from Azerbaijan 🙂
 
 
-## Data Science Enthusiast | Python & ML & Excel | Solving business problems through Data Visualization
+## Data Science Enthusiast | Python & ML & NN & Excel & SQL | Solving business problems through Data Visualization
 
 - 📓 I'm Graduated from Azerbaijan Economics University
 - 💻 As of today I'm learning Machine Learning using Scikit-Learn etc
@@ -16,12 +16,19 @@
 ## Languages and Tools:
 
 
-<img width="80" height="80" alt="numpy" src="https://github.com/user-attachments/assets/b38805b5-aa20-4708-9be5-5905183b8fb0"  />
+<img width="80" height="80" alt="Python" src="https://github.com/user-attachments/assets/b38805b5-aa20-4708-9be5-5905183b8fb0"  />
 <img width="80" height="80" alt="numpy" src="https://github.com/user-attachments/assets/1811c6f4-14d6-4255-a499-132a4accc4ad" />
-<img width="80" height="80" alt="logo-data-structures-algorithms" src="https://github.com/user-attachments/assets/969afdb1-5de5-4c5b-9ff5-83d3bc6d1340" />
-<img width="80" height="80" alt="js" src="https://github.com/user-attachments/assets/950c2e1b-756b-468e-91ab-2672d1f27339" />
 <img width="80" height="80" alt="pandas" src="https://github.com/user-attachments/assets/1a5b8ff9-ac30-4191-b469-21246f09d7b7" />
-<img width="100" height="80" alt="208-2081341_scikit-learn-logo-png-transparent-png"  src="https://github.com/user-attachments/assets/5859e4c0-5cc0-40c7-bc11-5fcd2c1c9ab7" />
+<img width="80" height="80" alt="js" src="https://github.com/user-attachments/assets/950c2e1b-756b-468e-91ab-2672d1f27339" />
+<img width="80" height="80" alt="data-structures-algorithms" src="https://github.com/user-attachments/assets/969afdb1-5de5-4c5b-9ff5-83d3bc6d1340" />
+<img height="80" alt="scikit-learn" src="https://github.com/user-attachments/assets/8ebce5ca-f151-4c88-bfbc-c95594954705" />
+<img height="80" alt="pytorch" src="https://github.com/user-attachments/assets/2cf42647-7a82-4caf-8c8a-e0cfdbc6feef" />
+
+
+
+
+
+
 
 [instagram]: https://www.instagram.com/elivasliuzeyir/
 [linkedln]: https://www.linkedin.com/in/uzeyirelivasli/
