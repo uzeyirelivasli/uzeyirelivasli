@@ -4,7 +4,7 @@
 ## Data Science Enthusiast | Python & ML & NN & Excel & SQL | Solving business problems through Data Visualization
 
 - 📓 I'm Graduated from Azerbaijan Economics University
-- 💻 As of today I'm learning Machine Learning using Scikit-Learn etc
+- 💻 As of today I'm learning Power BI
 
 
 ## My social media
